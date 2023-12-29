@@ -55,6 +55,11 @@
 .card:hover .servicesIcon {
     color: #008000;
 }
+
+.card:hover .labelText {
+    color: #008000;
+}
+
 .servicesText:hover {
     border: 1px solid #008000;
 }
